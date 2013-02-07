@@ -1,0 +1,13 @@
+*.class
+*.war
+*.ear
+target
+**/target
+.DS_Store
+**/.DS_Store
+*.swp
+**/*.swp
+
+# IntelliJ files to ignore:
+.idea/workspace.xml
+.idea/tasks.xml
